@@ -13,4 +13,6 @@ A comprehensive Active Directory homelab built on Hyper-V featuring Windows Serv
 - AD DS role installed and promoted to Domain Controller
 - DNS verified with foward lookup zones
 
+
+
   
