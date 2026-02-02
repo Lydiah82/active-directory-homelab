@@ -7,15 +7,11 @@ A comprehensive Active Directory homelab built on Hyper-V featuring Windows Serv
 - **Client Workstation:** Windows 10 pro
 - **Network:** External Virtual Switch
 
-## Lab progress
+## Server Configuration
 - windows Server 2022 installed
 - Static IP for Server Configured with DNS pointing to itself
 - AD DS role installed and promoted to Domain Controller
 - DNS verified with foward lookup zones
-
-## Server Configuration
-- Configured a static IP Address for the server with DNS pointing to itself
-- Installed Active Directory Domain Services
   
   - ![Server Network configuration(Static IP)](server-configuration-network.md)
   - ![Active Directory Doamain Services installation](adds-installation.md)
