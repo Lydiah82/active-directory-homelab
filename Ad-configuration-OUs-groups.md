@@ -15,6 +15,4 @@
 - This OU structure separates objects by function and Region to improve managability and scability of the Domain environment
 
 
-
-<img width="501" height="327" alt="ou-config" src="https://github.com/user-attachments/assets/1a14539e-6da0-463c-8e59-143aa66a9397" />
-
+<img width="750" height="400" alt="ou-config-scrshot" src="https://github.com/user-attachments/assets/d68ab6f1-c029-4822-b9e1-f226b8397d7f" />
