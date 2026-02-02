@@ -14,7 +14,8 @@ A comprehensive Active Directory homelab built on Hyper-V featuring Windows Serv
 - DNS verified with foward lookup zones
 
 ## Sections
-![Server Network configuration(Static IP)](03-server-configuration-network.md)
+![Server Network configuration(Static IP)](03-server-configuration-network.md
+![Active Directory Doamain Services installation](adds-installation.md)
 
 
   
