@@ -1,5 +1,5 @@
 # active-directory-homelab
-A comprehensive Active Directory homelab built on Hyper-V featuring Windows Server 2022 as a Domain Controller and Windows 10 Pro clients. Includes full AD DS configuration, DNS setup, user/group management, and Group Policy Objects for hands-on learning and testing. Planning to switch network to private later to implement DHCP
+A comprehensive Active Directory homelab built on Hyper-V featuring Windows Server 2022 as a Domain Controller and Windows 10 Pro clients. Includes full AD DS configuration, DNS setup, user/group management, and Group Policy Objects for hands-on learning and testing. Planning to change network Adapter later to private switch to implement DHCP
 
 ## Infrastructure
 - **Hypervisor:** Microsoft Hyper-V
@@ -14,16 +14,18 @@ A comprehensive Active Directory homelab built on Hyper-V featuring Windows Serv
 - DNS verified with foward lookup zones
 
 ## Server Configuration
- Configured a static IP Address for the server with DNS pointing to itself
- 
- Installed Active directory Domain Services
-- ![Server Network configuration(Static IP)](server-configuration-network.md)
-- ![Active Directory Doamain Services installation](adds-installation.md)
+- Configured a static IP Address for the server with DNS pointing to itself
+- Installed Active Directory Domain Services
+  
+  - ![Server Network configuration(Static IP)](server-configuration-network.md)
+  - ![Active Directory Doamain Services installation](adds-installation.md)
 
 ### Active Directory Configuration
 - Implemented a structured OU design to improve organization and scalabilty
 - Created security groups aligned with departmental roles
 - Applied group-based management to support access control and policy assignment
+  
+  - ![Active Directory configuration](Ad-configuration-OUs-groups.md)
 
 
 
