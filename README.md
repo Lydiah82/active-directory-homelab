@@ -13,9 +13,12 @@ A comprehensive Active Directory homelab built on Hyper-V featuring Windows Serv
 - AD DS role installed and promoted to Domain Controller
 - DNS verified with foward lookup zones
 
-## Sections
+## Server Configuration
 - ![Server Network configuration(Static IP)](03-server-configuration-network.md)
 - ![Active Directory Doamain Services installation](adds-installation.md)
+
+### Active Directory Configuration
+
 
 
   
