@@ -14,10 +14,17 @@ A comprehensive Active Directory homelab built on Hyper-V featuring Windows Serv
 - DNS verified with foward lookup zones
 
 ## Server Configuration
-- ![Server Network configuration(Static IP)](03-server-configuration-network.md)
+ Configured a static IP Address for the server with DNS pointing to itself
+ 
+ Installed Active directory Domain Services
+- ![Server Network configuration(Static IP)](server-configuration-network.md)
 - ![Active Directory Doamain Services installation](adds-installation.md)
 
 ### Active Directory Configuration
+- Implemented a structured OU design to improve organization and scalabilty
+- Created security groups aligned with departmental roles
+- Applied group-based management to support access control and policy assignment
+
 
 
 
