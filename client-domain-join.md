@@ -3,10 +3,15 @@
 
 ## Client Network configuration
 - Configured the client use Domain contoller as it's primary DNS server
+
   
   <img width="750" height="400" alt="dns-config" src="https://github.com/user-attachments/assets/502aa398-1c04-4ed6-8182-e0c040443ccd" />
 
 ## Domain join
 - Renamed the client workstation and joined it to the Domain Controller from the default workgroup
+  
+  
 
   
+
+ <img width="750" height="400" alt="client-join-config" src="https://github.com/user-attachments/assets/e95defa8-72ae-4ad7-a527-36935cd50653" />
