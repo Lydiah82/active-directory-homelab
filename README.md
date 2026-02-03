@@ -23,6 +23,10 @@ A comprehensive Active Directory homelab built on Hyper-V featuring Windows Serv
   
   - ![Active Directory configuration](Ad-configuration-OUs-groups.md)
 
+### Client Workstation Configuration
+- Configured a Windows 10 Pro client Workstation and joined it the Active Directory Domain
+- Verified successiful domain join for GPO application and testing
+
 
 
 
