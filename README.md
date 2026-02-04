@@ -29,6 +29,10 @@ A comprehensive Active Directory homelab built on Hyper-V featuring Windows Serv
   
   - ![client workstation configuration](client-domain-join.md)
 
+## Group Policy configuration and testing
+- Created and applied Group Policy Objects(GPOs) to manage and configure users and computers's settings within Domain
+- Linked GPOs to appropriate OUs and verified policy enforcement on the Domain joined workstation
+
 
 
 
