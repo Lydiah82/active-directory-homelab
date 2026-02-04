@@ -15,3 +15,9 @@
   
 
  <img width="750" height="400" alt="client-join-config" src="https://github.com/user-attachments/assets/e95defa8-72ae-4ad7-a527-36935cd50653" />
+ 
+
+- Verified successful domain join 
+
+  
+<img width="750" height="400" alt="client-adjoin" src="https://github.com/user-attachments/assets/c26a8eda-6f8c-4785-8ba5-f0918a725f88" />
