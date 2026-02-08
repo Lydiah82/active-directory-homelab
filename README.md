@@ -40,6 +40,12 @@ A comprehensive Active Directory homelab built on Hyper-V featuring Windows Serv
 
   - ![GPO configuration and application](gpo-testing.md)
   - ![Mapped Drive and NTFS permissions](MappedDrive.md)
+ 
+## Conclusion
+- This lab demonstrates a complete on-premises Active Directory environment, from VM setup to Group Policy and NTFS access control
+- Building and verifying this environment provided valuable hands-on experience for Active directory Administrative roles
+- Future practice will include transitioning to a private virtual switch to test DHCP deployment and expand the lab’s network capabilities
+
 
 
 
